@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://anatexis.github.io',
                 'git_url': 'https://github.com/anatexis/nbdev_tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': { 'nbdev_tutorial.core': { 'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py'),
+                                     'nbdev_tutorial.core.say_hello': ('core.html#say_hello', 'nbdev_tutorial/core.py')}}}
