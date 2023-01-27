@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Richie\")\n\n'Hello Richie!'\n\n\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\"\n\n\nfrom fastcore.test import *\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))\n\n\n\n\n\nsource\n\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_tutorial",
+    "section": "",
+    "text": "Super nice."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_tutorial",
+    "section": "How to use",
+    "text": "How to use\nYou can draw a black circle and and you can say hello to someone:\n\nsay_hello(\"Susi\")\n\n'Hello Susi!'\n\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))"
+  }
+]
