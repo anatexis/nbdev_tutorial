@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://anatexis.github.io/nbdev_tutorial"
+  description: "nbdev intro"
+  repo-branch: main
+  repo-url: "https://github.com/anatexis/nbdev_tutorial"
